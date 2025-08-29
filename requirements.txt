@@ -16,3 +16,4 @@ transformers
 chromadb
 
 nest_asyncio
+pypdf
