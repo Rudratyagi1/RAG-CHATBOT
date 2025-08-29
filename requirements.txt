@@ -14,3 +14,5 @@ wikipedia
 sentence-transformers
 transformers
 chromadb
+
+nest_asyncio
