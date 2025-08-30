@@ -15,4 +15,9 @@ sentence-transformers
 transformers
 chromadb
 
+<<<<<<< HEAD
 nest_asyncio
+=======
+nest_asyncio
+pypdf
+>>>>>>> d0e18a5c1156b721fc40ab9dae0bfc7b8213bd3b

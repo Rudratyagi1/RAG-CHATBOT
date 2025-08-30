@@ -207,7 +207,7 @@ else:
     """, unsafe_allow_html=True)
 
 #load document
-pdf_path = Path("C:/Users/rudra/RAG-CHATBOT/data/devops.pdf")
+pdf_path = Path("data/devops.pdf")
 docs = load_documents(str(pdf_path))
 
 #split into chunks
